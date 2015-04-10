@@ -2,7 +2,8 @@
 
 A simple tutorial for using Git submodules.  
   
-[Reference Guide](https://chrisjean.com/git-submodules-adding-using-removing-and-updating/)
+[Reference Guide 1](https://chrisjean.com/git-submodules-adding-using-removing-and-updating/)
+[Reference Guide 2](http://blog.jacius.info/git-submodule-cheat-sheet/)
 
 ---
 
