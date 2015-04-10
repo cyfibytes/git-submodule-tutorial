@@ -54,3 +54,13 @@ Shorthand would be:
 ```sh
 git submodule update -i
 ```
+
+## Clone a Project with Submodules and their contents
+```sh
+git clone --recursive <project-repo>
+```
+
+##Update all submodules for a project already cloned
+```sh
+git submodule foreach git pull origin master
+```
