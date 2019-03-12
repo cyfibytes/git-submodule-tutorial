@@ -1,12 +1,23 @@
 # Git Submodule Tutorial
-Get started with Git submodules.
+Include other Git repositories in repositories.
 
-## Add a repository as a submodule
+**Table of contents**
+* [Git Submodules to the Rescue](#git-submodules-to-the-rescue)
+* [Your First Submodule](#your-first-submodule)
+* [Update a Submodule](#update-a-submodule)
+* [Clone a Project with Submodules](#clone-a-project-with-submodules)
+
+## Git Submodules to the Rescue
+
+
+## Your First Submodule
+**Add a repository as a submodule**
 ```sh
 git submodule add <repo>
 ```
 
-## Get the latest submodule repository updates
+## Update a Submodule
+**Get the latest submodule repository updates**
 ```sh
 cd <path-to-submodule>
 ```
