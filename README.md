@@ -1,7 +1,7 @@
 # Git Submodule Tutorial
 Include other Git repositories in repositories.
 
-**Table of contents**
+**Table of Contents**
 * [Git Submodules to the Rescue](#git-submodules-to-the-rescue)
 * [Your First Submodule](#your-first-submodule)
 * [Update a Submodule](#update-a-submodule)
